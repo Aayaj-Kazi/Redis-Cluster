@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QKThoB+Q+5nl6ZfU9Nbk7aI1avwV/e9j1PfZhglVANCHEahF+EufsyJCKD6nFkskpy9Kh5yPrOaIkFJtq45kag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aumni\\Desktop\\Redis Console App\\RedisClusterDisabledConsole\\RedisClusterDisabledConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aumni\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "C:\\Users\\Aumni\\.nuget\\packages\\stackexchange.redis\\2.6.90\\stackexchange.redis.2.6.90.nupkg.sha512",
+    "C:\\Users\\Aumni\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -132,11 +132,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aumni\\Desktop\\Redis Console App\\RedisClusterDisabledConsole\\RedisClusterDisabledConsole.csproj",
+      "projectUniqueName": "C:\\Users\\Aumni\\Desktop\\Redis Console App\\Redis-Cluster\\Redis Cluster Disabled\\RedisClusterDisabledConsole\\RedisClusterDisabledConsole.csproj",
       "projectName": "RedisClusterDisabledConsole",
-      "projectPath": "C:\\Users\\Aumni\\Desktop\\Redis Console App\\RedisClusterDisabledConsole\\RedisClusterDisabledConsole.csproj",
+      "projectPath": "C:\\Users\\Aumni\\Desktop\\Redis Console App\\Redis-Cluster\\Redis Cluster Disabled\\RedisClusterDisabledConsole\\RedisClusterDisabledConsole.csproj",
       "packagesPath": "C:\\Users\\Aumni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aumni\\Desktop\\Redis Console App\\RedisClusterDisabledConsole\\obj\\",
+      "outputPath": "C:\\Users\\Aumni\\Desktop\\Redis Console App\\Redis-Cluster\\Redis Cluster Disabled\\RedisClusterDisabledConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aumni\\AppData\\Roaming\\NuGet\\NuGet.Config",

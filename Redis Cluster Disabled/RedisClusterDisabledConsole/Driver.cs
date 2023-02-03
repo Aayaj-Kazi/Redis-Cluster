@@ -16,9 +16,21 @@ namespace ConsoleRedisApp
             var db = redis.GetDatabase();
             var pong = db.Ping();
             Console.WriteLine(pong);
-            db.StringSet($"num", "Test Number");
-            Console.WriteLine(db.StringGet("num"));
             
+            
+            //1. set data
+            db.StringSet($"num", "Test Number");
+
+            //2. get data
+            Console.WriteLine(db.StringGet("num"));
+
+            //3. update data
+            db.StringSet($"num", "Test Number updated");
+            Console.WriteLine(db.StringGet("num"));
+
+            //4. delete data
+            db.KeyDelete($"num");
+            Console.WriteLine(db.StringGet("num"));
         }
     }
 }
